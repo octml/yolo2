@@ -1,0 +1,10 @@
+CC=gcc
+
+#SOURCE=gemm.c
+#SOURCE=connect_layer.c
+SOURCE=utils.c
+all:
+	$(CC) $(SOURCE) -o test -lm
+	./test
+clean:
+	@rm -vf test* .o

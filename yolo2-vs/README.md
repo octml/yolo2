@@ -1,0 +1,1 @@
+﻿﻿﻿# yolo-vsuse visual studio community 2017#build/darknetit is dlldisable opencv and gpu#build/exeenable opencv disable gpu 
